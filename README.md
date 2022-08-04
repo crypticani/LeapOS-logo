@@ -11,7 +11,9 @@ This theme is a copy of the default kubuntu theme from package `plymouth-theme-k
 # Installation
 Clone or copy the repository contents at the following directory:
 ```
-/usr/share/plymouth/themes/
+cd /usr/share/plymouth/themes/
+
+git clone https://github.com/crypticani/LeapOS-logo.git
 ```
   
 Next, run the following commands:
